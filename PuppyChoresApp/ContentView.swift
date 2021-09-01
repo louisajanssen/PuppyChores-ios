@@ -30,7 +30,7 @@ struct ContentView: View {
                 switch selectedIndex {
                 case 0:
                     NavigationView {
-                        Text("Dog's Day")
+                        Text("Doggy's Day")
                             .navigationTitle("Moments")
                     }
                 case 1:
